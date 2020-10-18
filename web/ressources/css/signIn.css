@@ -1,0 +1,115 @@
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+section {
+  background-color: rgba(0,0,0,.02);
+  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-left: 30px; 
+  padding-right: 30px; 
+}
+
+.card-header {
+    display: flex;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 20px;
+    background-color: rgba(0,0,0,.02);
+}
+
+.card-header-title {
+    text-align: center;
+}
+
+.titleAccount {
+    font-weight: bold;
+    line-height: 50%;
+}
+
+a {
+    color: #2A3244;   
+}
+
+a:hover {
+    font-weight: bold;
+    color: #1F4477;
+    text-decoration: none;
+}
+
+.subcategory {
+    padding-top: 30px;
+}
+
+////// table //////////////////////
+table {
+    table-layout: fixed;
+}
+
+thead th:nth-child(1) {
+    width: 20%;
+}
+
+thead th:nth-child(2) {
+    width: 20%;
+}
+
+thead th:nth-child(3) {
+    width: 20%;
+}
+
+thead th:nth-child(4) {
+    width: 20%;
+}
+
+th, td {
+    padding: 20px;
+}
+
+///// other ///////////////
+.show {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+thead {
+    background-color: rgba(0,0,0,.03);
+}
+
+table {
+ text-align: center;   
+}
+
+.md-block {
+  padding-bottom: 30px!important;
+  padding-top: 15px!important;
+  padding-left: 30px!important;
+    
+}

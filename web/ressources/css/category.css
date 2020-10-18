@@ -1,0 +1,45 @@
+/* 
+    Created on : 29 sept. 2020, 11:18:00
+    Author     : euggio
+*/
+
+.arrowCategory {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.leftCategory {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+
+.centerCategory {
+    float: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+ul {
+    list-style-type: none;
+    list-style-position: outside;
+}
+
+.gray {
+    color: gray;
+}
+
+.author {
+    white-space: nowrap;
+} 
+
+#more {
+    display: none;
+}
+
+.leftShow {
+    margin-left : 15px;
+}

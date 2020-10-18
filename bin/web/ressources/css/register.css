@@ -1,0 +1,21 @@
+section {
+  background-color: rgba(0,0,0,.02);
+  padding-bottom: 30px;
+  padding-top: 15px;
+}
+
+.text-needed {
+    color: red;
+}
+
+h1 {
+    text-align: center;
+}
+
+.hiddenfield {
+    display: none;
+}
+
+label {
+    text-align: right;
+}

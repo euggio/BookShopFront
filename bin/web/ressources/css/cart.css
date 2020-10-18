@@ -1,0 +1,10 @@
+.itemR {
+    float: right;
+}
+.margin10px {
+    margin-top: 10px;
+}
+
+.alignVertical { 
+    vertical-align: inherit;
+}

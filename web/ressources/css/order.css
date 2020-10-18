@@ -1,0 +1,10 @@
+.text-needed {
+    color: red
+}
+
+@media (min-width: 768px){
+.jumbotron2 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+}
